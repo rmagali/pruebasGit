@@ -1,0 +1,23 @@
+[33mtag v0.0.3[m
+Tagger: Melina <mromero.turismo@gmail.com>
+Date:   Sun Jun 27 14:24:58 2021 -0300
+
+tercera version
+
+[33mcommit f95d4e79201ad8a1a74e3a2abaa47ff76d4aa7e0[m[33m ([m[1;33mtag: v0.0.4[m[33m, [m[1;33mtag: v0.0.3[m[33m, [m[1;33mtag: v0.0.2[m[33m)[m
+Author: Melina <mromero.turismo@gmail.com>
+Date:   Thu Jun 24 19:47:02 2021 -0300
+
+    haciendo cambios
+
+[1mdiff --git a/prueba_git.php b/prueba_git.php[m
+[1mindex 87a280f..503b458 100644[m
+[1m--- a/prueba_git.php[m
+[1m+++ b/prueba_git.php[m
+[36m@@ -1,4 +1,4 @@[m
+ <? php[m
+[31m-hola[m
+[32m+[m[32mecho "hola, segundo cambio"[m
+ [m
+ ?>[m
+\ No newline at end of file[m
